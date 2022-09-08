@@ -1,0 +1,26 @@
+#snake {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    background: #0dcaf0;
+    border-radius: 8px;
+}
+span {
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    background: #0dcaf0;
+    border-radius: 5px;
+}
+.none {
+display: none!important;
+}
+#apple {
+    background: #e81010;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
